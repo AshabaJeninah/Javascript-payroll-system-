@@ -20,7 +20,7 @@ $(document).ready(function(){
 
     
     </tr>
-    $("#salaryDetails").append("newRow");
+    $("#salaryDetails").append(newRow);
 
 
     })
